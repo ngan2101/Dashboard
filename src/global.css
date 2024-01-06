@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --heading-3: Outfit;
+  --body-text-bold: "Noto Sans";
+
+  /* font sizes */
+  --heading-2-size: 36px;
+  --body-text-bold-size: 16px;
+  --eyebrow-text-size: 14px;
+  --heading-3-size: 26px;
+  --sub-heading-size: 20px;
+  --heading-1-size: 48px;
+
+  /* Colors */
+  --color-darkslateblue-100: #4a5aae;
+  --primary-color: #214e91;
+  --secondary-color: #e5aacc;
+  --color-thistle-100: rgba(229, 170, 204, 0.6);
+  --color-black: #000;
+  --dark-gray: #8b8b8b;
+  --white: #fff;
+  --color-dimgray: #6b6b6b;
+  --primary-light-blue: #c8deff;
+  --color-lightsteelblue-100: #bccade;
+  --light-gray: #f0f2f5;
+  --gray: #ccc;
+  --color-indianred-100: #d75555;
+
+  /* Gaps */
+  --gap-3xl: 22px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-xl: 20px;
+  --padding-5xl: 24px;
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+  --br-xs: 12px;
+  --br-mid: 17px;
+  --br-16xl: 35px;
+  --br-21xl: 40px;
+  --br-13xl: 32px;
+}

@@ -1,0 +1,207 @@
+.schedule-11-with1 {
+  position: absolute;
+  top: 100px;
+  left: 63px;
+  font-size: var(--heading-2-size);
+  font-weight: 500;
+  font-family: var(--heading-3);
+}
+.in-the-email,
+.to-do2 {
+  position: absolute;
+  top: 77px;
+  left: 63px;
+}
+.in-the-email {
+  top: 480px;
+  font-size: var(--body-text-bold-size);
+  display: inline-block;
+  width: 625px;
+}
+.email-summary {
+  position: absolute;
+  top: 453px;
+  left: 63px;
+  color: var(--dark-gray);
+}
+.maria-l-asked {
+  position: absolute;
+  top: 351px;
+  left: 63px;
+  font-size: var(--body-text-bold-size);
+  display: inline-block;
+  width: 625px;
+}
+.context,
+.task-breakdown {
+  position: absolute;
+  top: 324px;
+  left: 63px;
+  color: var(--dark-gray);
+}
+.task-breakdown {
+  top: 604px;
+}
+.view-detailed-email {
+  position: relative;
+}
+.team-wrapper,
+.view-detailed-email-wrapper {
+  position: absolute;
+  left: 63px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.view-detailed-email-wrapper {
+  top: 774px;
+  border-radius: var(--br-16xl);
+  background-color: var(--primary-light-blue);
+  padding: var(--padding-3xs) var(--padding-xl);
+  cursor: pointer;
+  font-size: var(--sub-heading-size);
+  color: var(--primary-color);
+  font-family: var(--heading-3);
+}
+.team-wrapper {
+  top: 149px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-darkslateblue-100);
+  width: 97px;
+  padding: 4px var(--padding-xl);
+  box-sizing: border-box;
+  text-align: center;
+  color: var(--white);
+}
+.from {
+  top: 198px;
+  color: var(--dark-gray);
+}
+.deadline,
+.frame-child,
+.from {
+  position: absolute;
+  left: 63px;
+}
+.deadline {
+  top: 237px;
+  color: var(--dark-gray);
+}
+.frame-child {
+  top: 631px;
+  border-radius: 50%;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+}
+.email-or-message {
+  position: absolute;
+  top: 630px;
+  left: 99px;
+  font-size: var(--body-text-bold-size);
+}
+.frame-item {
+  position: absolute;
+  top: 669px;
+  left: 63px;
+  border-radius: 50%;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+}
+.send-a-calendar {
+  position: absolute;
+  top: 668px;
+  left: 99px;
+  font-size: var(--body-text-bold-size);
+}
+.frame-inner {
+  position: absolute;
+  top: 707px;
+  left: 63px;
+  border-radius: 50%;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+}
+.review-intern-projects {
+  position: absolute;
+  top: 706px;
+  left: 99px;
+  font-size: var(--body-text-bold-size);
+  display: inline-block;
+  width: 473px;
+}
+.priority {
+  position: absolute;
+  top: 278px;
+  left: 63px;
+  color: var(--dark-gray);
+}
+.high-wrapper,
+.maria-l-marialcompanycom,
+.wrapper28 {
+  position: absolute;
+  left: 173px;
+  font-size: var(--body-text-bold-size);
+}
+.maria-l-marialcompanycom {
+  top: 197px;
+}
+.high-wrapper,
+.wrapper28 {
+  border-radius: var(--br-13xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-5xl);
+}
+.wrapper28 {
+  top: 235px;
+  border: 1px solid var(--primary-color);
+}
+.high-wrapper {
+  top: 276px;
+  background-color: #e35f5f;
+  color: var(--white);
+}
+.back,
+.vector-icon3 {
+  position: absolute;
+  cursor: pointer;
+}
+.vector-icon3 {
+  height: 1.96%;
+  width: 1.46%;
+  top: 5.27%;
+  right: 90.15%;
+  bottom: 92.76%;
+  left: 8.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.back {
+  top: 50px;
+  left: 82px;
+}
+.schedule-11-with-intern-nina-parent {
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--white);
+  width: 751px;
+  height: 948px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: left;
+  font-size: var(--eyebrow-text-size);
+  color: var(--color-black);
+  font-family: var(--body-text-bold);
+}
