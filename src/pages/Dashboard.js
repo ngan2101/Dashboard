@@ -42,7 +42,27 @@ const Dashboard = () => {
         Authorization: apiKey,
       },
       data: body,
+  
     });
+
+    //const axios = require('axios');
+
+
+  // const options = {
+  //   method: 'GET',
+  //   url: 'https://api.voiceflow.com/v2/versions/65986cea5cb4d9c47331f2ea/export',
+  //   headers: {accept: 'application/json'}
+  // };
+
+  // axios
+  //   .request(options)
+  //   .then(function (response) {
+  //     console.log(response.data);
+  //   })
+  //   .catch(function (error) {
+  //     console.error(error);
+  //   });
+
 
     console.log('Received response from Voiceflow:', response.data);
 
@@ -118,7 +138,7 @@ const Dashboard = () => {
         {showChat && (
           <Modal show={showChat} onHide={() => setShowChat(false)}>
             <Modal.Header closeButton>
-              <Modal.Title>Chat with Fi, your AI assistant</Modal.Title>
+              <Modal.Title>Chat with FiFa, your AI assistant</Modal.Title>
             </Modal.Header>
             <Modal.Body>
               <Form.Group className="mb-3" controlId="userInput">
@@ -166,7 +186,7 @@ const Dashboard = () => {
             <div className="task-2-child" />
             <Form.Group className="task-summary-lorem-container">
               <Form.Label>
-                Task summary: 
+              Task summary: Incorporate feedback, finalize Feature 2 design, prepare documentation for hand-off to engineering
               </Form.Label>
               <Form.Control as="textarea" defaultValue="" />
             </Form.Group>
@@ -188,7 +208,7 @@ const Dashboard = () => {
             <div className="task-2-child" />
             <Form.Group className="task-summary-lorem-container1">
               <Form.Label>
-                Task summary: 
+              Task summary: Meet with Intern Nina to discuss intern projects and do a walkthrough of design systems and templates 
               </Form.Label>
               <Form.Control as="textarea" defaultValue="" />
             </Form.Group>
@@ -214,8 +234,7 @@ const Dashboard = () => {
               <div className="task-2-child" />
               <Form.Group className="task-summary-lorem-container2">
                 <Form.Label>
-                  Task summary:
-                </Form.Label>
+                Task summary: Alex P. wants to schedule a coffee chat to talk about UX design journey and experience at the company.                </Form.Label>
                 <Form.Control as="textarea" defaultValue="" />
               </Form.Group>
               <div className="div">Due: 01/08/24</div>

@@ -1,0 +1,3 @@
+- Figma (UI/UX): https://www.figma.com/files/project/179725048/Team-project?fuid=1136496908191445739
+- Canva (presentation): https://www.canva.com/design/DAF5Ilsoyfc/d2tNbVS3KsJwT_AgsPJMpA/edit?utm_content=DAF5Ilsoyfc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- Voiceflow (AI assistant chatbot): https://creator.voiceflow.com/prototype/65986cea5cb4d9c47331f2ea
